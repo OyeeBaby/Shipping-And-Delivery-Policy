@@ -1,37 +1,34 @@
-## Welcome to GitHub Pages
+SHIPPING & DILVERY POLICY
 
-You can use the [editor on GitHub](https://github.com/OyeeBaby/Shipping-And-Delivery-Policy/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+We are committed to protecting the privacy of all visitors to OyeeBaby application. Please read the following privacy policy which explains how we use and protect your informati
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+We are Oyee Baby , our registered office at SHOP NO. 21, TRIDEV TOWER, GMS ROAD, SHAKTI
+ENCLAVE, DEHRADUN, Dehradun, Uttarakhand, 248001.
 
-### Markdown
+IMPORTANT LEGAL NOTICE
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+This page tells you the terms and conditions on which we provide our services ("Website Terms"). Please read these Website Terms carefully before ordering any items from our Website. You should understand that by ordering food items via the Website, you agree to be bound by these Website Terms.
 
-```markdown
-Syntax highlighted code block
+Prices
 
-# Header 1
-## Header 2
-### Header 3
+GST is applicable on the prices.
 
-- Bulleted
-- List
+On the occasion that any item is incorrectly priced, we reserve the right to cancel the purchase and relist the product at the correct price.
 
-1. Numbered
-2. List
+Privacy
 
-**Bold** and _Italic_ and `Code` text
+We only store necessary information required to make a purchase.
 
-[Link](url) and ![Image](src)
-```
+Your credit card information is not stored by us and is always processed across a secure server.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+We do not sell data, we only sell great product! All information left with A.S.H collection is entirely confidential.
 
-### Jekyll Themes
+Online Order
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/OyeeBaby/Shipping-And-Delivery-Policy/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Our customer service will call you only when they need some clarifications. All regular communications after placing an order will happen on email, notifications or through the website.
 
-### Support or Contact
+An order number will be generated once the order is confirmed.
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Items ordered from website are subject to availability at the store location as per the location chosen by you.
+
+Order will be delivered as fast as possible, usually within 5-8 days. It might vary as per location and area and will be indicated to you after shipment.
